@@ -1,2 +1,6 @@
-/
+/version.txt
+  Access-Control-Allow-Origin: *
+/games.txt
+  Access-Control-Allow-Origin: *
+/game_count.txt
   Access-Control-Allow-Origin: *
